@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "011435628",
+    "database": "database_creatopy",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "011435628",
+    "database": "database_creatopy",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "011435628",
+    "database": "database_creatopy",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
