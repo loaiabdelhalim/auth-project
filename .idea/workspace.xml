@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ef0a157-d7b1-4a68-8435-7bb53520f1f4" name="Default Changelist" comment="" />
+    <list default="true" id="1ef0a157-d7b1-4a68-8435-7bb53520f1f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/resolvers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/resolvers.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +21,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -47,6 +50,7 @@
       <updated>1625332688131</updated>
       <workItem from="1625332689330" duration="187000" />
       <workItem from="1625393471424" duration="266000" />
+      <workItem from="1625509387043" duration="16000" />
     </task>
     <servers />
   </component>
@@ -58,5 +62,9 @@
       <screen x="-2560" y="-384" width="2560" height="1417" />
     </state>
     <state x="-2460" y="-307" width="2360" height="1240" key="DiffContextDialog/-2560.-384.2560.1417/0.23.1680.1027@-2560.-384.2560.1417" timestamp="1625332898006" />
+    <state x="-2021" y="199" width="842" height="588" key="find.popup" timestamp="1625509399423">
+      <screen x="-3200" y="-407" width="3200" height="1800" />
+    </state>
+    <state x="-2021" y="199" width="842" height="588" key="find.popup/-3200.-407.3200.1800/0.0.1680.1050@-3200.-407.3200.1800" timestamp="1625509399423" />
   </component>
 </project>

@@ -28,6 +28,8 @@ const resolvers = {
             }
         },
         async resetPassword(_, {email}) {
+            // TODO: add node mailer to send new passwords to emails.
+            // For now, it sends the password back to the user.
             if (!email) {
                 throw new Error('Please provide email address!')
             }
